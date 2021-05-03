@@ -1,6 +1,6 @@
 {
-  "name": "sapper-typescript-graphql-template",
-  "description": "A template that includes Svelte with Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL",
+  "name": "sapper-typescript-template",
+  "description": "A template that includes Svelte with Sapper, TypeScript",
   "homepage": "https://github.com/Sh031224/sapper-typescript-template",
   "repository": {
     "type": "git",
